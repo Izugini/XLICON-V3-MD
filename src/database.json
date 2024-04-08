@@ -47,7 +47,8 @@
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
-      "antiviewonce": false,
+      "antiviewonce": true,
+  
       "antivirtex": false,
       "antimedia": false,
       "antiimage": false,
@@ -59,13 +60,13 @@
       "antidocument": false,
       "anticontact": false,
       "antilink": false,
-      "antilinkgc": false
+      "antilinkgc": true
     },
     "923184070915@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
-      "antiviewonce": false,
+      "antiviewonce": true,
       "antivirtex": false,
       "antimedia": false,
       "antiimage": false,
